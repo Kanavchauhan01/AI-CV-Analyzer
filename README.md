@@ -60,7 +60,7 @@ This project is still **in development** and paused temporarily. You're welcome 
 ---
 
 ## ⚖️ License & Copyright
-© 2025 Isaiah Praise Ogooluwa Bakare. All rights reserved.
+© 2025 Kanav Chauhan. All rights reserved.
 
 
 This project is protected by copyright. You may **not**:
